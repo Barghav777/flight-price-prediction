@@ -17,5 +17,7 @@ This project predicts the price of flights based on various features such as dep
 - **Jupyter Notebook**: For creating and running the code in an interactive environment.
 
 ## Clone the Repository
-- git clone https://github.com/Barghav777/flight-price-prediction.git
-- cd flight-price-prediction
+``` bash
+git clone https://github.com/Barghav777/flight-price-prediction.git
+cd flight-price-prediction
+```
